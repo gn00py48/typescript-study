@@ -1,3 +1,4 @@
+// quiz 1
 /*
 [ 문제 소개 ]
 다음 요구사항을 만족하도록 introduce 함수의 매개변수의 타입을 정의하세요
@@ -18,3 +19,5 @@ function introduce(name = "이정환", tall?: number) {
 introduce();
 introduce("이정환");
 introduce("이정환", 175);
+
+
